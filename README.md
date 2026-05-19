@@ -4,4 +4,4 @@
 - 👀 Familiar with Microservice, JIRA, Notion, Azure
 - 🌱 I’m currently learning ... Playwright, Docker & CI-CD
 - 💞️ I’m looking to collaborate on ... any open project with automation testing
-- 📫 How to reach me ... ziadul.islam33 on skype or Email: ziadulislam33@gmail.com
+- 📫 How to reach me ... Email: ziadulislam33@gmail.com
