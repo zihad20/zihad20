@@ -1,7 +1,32 @@
-- 👋 Hi, I’m Ziadul Islam
-- 👀 Working as an SQA Engineers to build the Metaverse, Sports Science, Health Science, NFT products as client Requirements
-- 👀 I’m interested in ... software/application testing and assurance the quality of the products
-- 👀 Familiar with Microservice, JIRA, Notion, Azure
-- 🌱 I’m currently learning ... Playwright, Docker & CI-CD
-- 💞️ I’m looking to collaborate on ... any open project with automation testing
-- 📫 How to reach me ... Email: ziadulislam33@gmail.com
+# 👋 Hi, I'm Ziadul Islam
+
+## 🚀 Software Test Automation Engineer
+
+Passionate about building scalable and reliable automation solutions for web and mobile applications.
+
+### 🛠️ Skills & Tools
+- Playwright
+- Selenium WebDriver
+- Maestro
+- Postman
+- JMeter
+- Java
+- TypeScript
+- Docker
+- CI/CD
+
+### 📌 Featured Projects
+- Dosevana Playwright Automation
+- Wishew Maestro Automation
+- Quartolab Automation Framework
+
+### 🌱 Currently Exploring
+- Advanced Playwright Frameworks
+- Docker & CI/CD
+- Scalable Test Architecture
+
+### 📫 Connect With Me
+- 📧 ziadulislam33@gmail.com
+- 💻 github.com/zihad20
+
+⭐ Always learning, building, and improving through automation.
